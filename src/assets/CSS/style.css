@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*  {
+    box-sizing: border-box;
+    outline: 0;
+
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #011f47;
+    font-family: 'Roboto';
+    font-size: 1.3em;
+    line-height: 1.5em;   
+}
+
+.Caixa {
+
+    justify-content: center;
+    align-items: center;
+    max-width: 640px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.btn {
+
+    border-radius: 12px;
+    padding: 7px;
+    background-color: #011f47;
+    color: #fff;
+    margin-bottom: 20px;
+
+}
+
+.result {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    color: #011f47;
+    letter-spacing: 2px;
+
+}
